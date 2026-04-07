@@ -162,4 +162,4 @@ streamlit run app.py
 
 ## Conclusion
 
-This project demonstrates both low-level and high-level implementations of a RAG system. It highlights the importance of retrieval quality, prompt design, and modular architecture in building reliable AI applications.
+This project demonstrates both low-level and high-level implementations of a RAG system. It highlights the importance of retrieval quality, prompt design, and modular architecture in building reliable AI application.
