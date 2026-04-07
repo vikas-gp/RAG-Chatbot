@@ -17,5 +17,4 @@ faiss_index_langchain/
 Thumbs.db
 
 .streamlit/
-
 *.tmp
